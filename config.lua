@@ -4,8 +4,8 @@ Config.DrawDistance = 25
 
 Config.UseAdvancedHoldup = true -- true = Using esx_advancedholdup | false = Not using esx_advancedholdup
 
-Config.ShowCharName = false -- true = Use Character Names | false = Use Steam Name
-Config.ShowFirstLast = true -- true = Use Characters First & Last Name | false = Use Characters First Name
+Config.ShowCharName = true -- true = Use Character Names | false = Use Steam Name
+Config.ShowFirstLast = false -- true = Use Characters First & Last Name | false = Use Characters First Name
 
 Config.UseATMBlips = false -- true = Use ATM Blips | false = Does the Opposite | NOTE: Its best to leave this at false. There is a LOT of ATMs
 Config.ATMBlip = {Sprite = 277, Color = 0, Display = 2, Scale = 1.0}
