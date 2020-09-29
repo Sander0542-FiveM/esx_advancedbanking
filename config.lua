@@ -2,7 +2,7 @@ Config = {}
 Config.Locale = 'en'
 Config.DrawDistance = 25
 
-Config.UseAdvancedHoldup = true -- true = Using esx_advancedholdup | false = Not using esx_advancedholdup
+Config.UseAdvancedHoldup = false -- true = Using esx_advancedholdup | false = Not using esx_advancedholdup
 
 Config.ShowCharName = true -- true = Use Character Names | false = Use Steam Name
 Config.ShowFirstLast = false -- true = Use Characters First & Last Name | false = Use Characters First Name
