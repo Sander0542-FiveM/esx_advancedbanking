@@ -1,5 +1,5 @@
 Config = {}
-Config.Locale = 'en'
+Config.Locale = 'nl'
 Config.DrawDistance = 25
 
 Config.UseAdvancedHoldup = false -- true = Using esx_advancedholdup | false = Not using esx_advancedholdup
