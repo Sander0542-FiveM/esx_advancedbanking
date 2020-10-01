@@ -1,4 +1,4 @@
-Locales['en'] = {
+Locales['nl'] = {
 	['blip_atm'] = 'pinautomaat',
 	['blip_bank'] = 'bank',
 	['press_access_atm'] = 'druk op ~INPUT_CONTEXT~ om de pinautomaat te gebruiken',
