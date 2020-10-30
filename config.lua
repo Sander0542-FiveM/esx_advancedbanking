@@ -128,6 +128,8 @@ Config.ATMLocations = {
 			vector3(288.81, -1282.32, 29.64), -- Capital Blvd
 			vector3(89.58, 2.42, 68.31), -- Spanish Ave
 			vector3(-58.04, -92.81, 57.79),
+			vector3(-866.2, -187.52, 37.58),
+			vector3(-867.23, -185.92, 37.65),
 		}
 	}
 }
